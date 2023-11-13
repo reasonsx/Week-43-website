@@ -1,0 +1,20 @@
+/* body {
+    background-color: rgb(194, 194, 194);
+} */
+
+.menu {
+    background-color: yellow;
+    height: 100px;
+}
+
+/* .newsletter {
+    background-color: secondary-emphasis;
+} */
+
+
+
+.section-hero {
+    background-image: url('https://cdn.pixabay.com/photo/2023/10/15/18/12/swan-8317602_1280.jpg');
+    height: 720px;
+    width: 1280px;
+}
